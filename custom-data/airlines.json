@@ -348,6 +348,12 @@
     "virtual": true
   },
   {
+    "icao": "RYR",
+    "name": "vRYR",
+    "callsign": "RYANAIR",
+    "virtual": true
+  },
+  {
     "icao": "SIA",
     "name": "Singapore Virtual",
     "callsign": "Singapore",
